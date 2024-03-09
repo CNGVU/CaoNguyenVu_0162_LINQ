@@ -1,0 +1,7 @@
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_LINQ\CaoNguyenVu_0162_LINQ\bin\Debug\CaoNguyenVu_0162_LINQ.exe.config
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_LINQ\CaoNguyenVu_0162_LINQ\bin\Debug\CaoNguyenVu_0162_LINQ.exe
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_LINQ\CaoNguyenVu_0162_LINQ\bin\Debug\CaoNguyenVu_0162_LINQ.pdb
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_LINQ\CaoNguyenVu_0162_LINQ\obj\Debug\CaoNguyenVu_0162_LINQ.csproj.AssemblyReference.cache
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_LINQ\CaoNguyenVu_0162_LINQ\obj\Debug\CaoNguyenVu_0162_LINQ.csproj.CoreCompileInputs.cache
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_LINQ\CaoNguyenVu_0162_LINQ\obj\Debug\CaoNguyenVu_0162_LINQ.exe
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_LINQ\CaoNguyenVu_0162_LINQ\obj\Debug\CaoNguyenVu_0162_LINQ.pdb
